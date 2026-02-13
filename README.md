@@ -36,10 +36,11 @@ subtitle:
 目前已接入模型均为阿里百炼平台模型,可遵循文档获取 [获取API Key](https://bailian.console.aliyun.com/cn-beijing/?utm_content=se_1021228171&gclid=EAIaIQobChMIq4qKw_vVkgMVOB6DAx1wQxg7EAAYASAAEgK3jPD_BwE&tab=api#/api/?type=model&url=2712195)
 
 ### 操作界面
-<img width="813" height="319" alt="main" src="https://github.com/user-attachments/assets/84f0c569-0ffd-43f4-b157-7255f7fc839b" />
+<img width="400" height="150" alt="main" src="https://github.com/user-attachments/assets/84f0c569-0ffd-43f4-b157-7255f7fc839b" />
 
    1. **开始/停止**：点击界面左侧的播放/暂停按钮开始/停止字幕生成
    2. **选择语言**：在界面右侧选择源语言和目标语言，源语言默认auto，可自动识别语言类型\
-<img width="175" height="60" alt="subtitle_btn" src="https://github.com/user-attachments/assets/0cbdfda1-2ab3-480f-a00a-317069667087" />
+<img width="90" height="30" alt="subtitle_btn" src="https://github.com/user-attachments/assets/0cbdfda1-2ab3-480f-a00a-317069667087" />
+
    3. **拖动字幕**：鼠标拖动`✥`按钮，可以调整字幕窗口位置
-   3. **隐藏字幕**：点击`隐藏`按钮可以切换字幕窗口的显示状态
+   4. **隐藏字幕**：点击`隐藏`按钮可以切换字幕窗口的显示状态
