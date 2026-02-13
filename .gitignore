@@ -1,0 +1,8 @@
+/venv/
+.idea
+/build/
+/dist/
+/logs/
+/main.spec
+/output/
+/auto_subtitle.spec

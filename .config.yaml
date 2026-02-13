@@ -1,0 +1,7 @@
+subtitle:
+  font_size: 24
+translator:
+#  api_key: 模型 API 密钥
+  model: qwen
+  source_language: auto
+  target_language: zh
